@@ -1,7 +1,7 @@
 # Onshape URDF Export with Blender
 #### Authors: Cole Abbott, Heinrich Asbury, Jared Berry, Evan Bulatek, and Benji Sobeloff-Gittes
 
-This is a method that uses Blender to export a robot assembly from onshape.
+This is a method that uses Blender to generate a URDF from a robot assembly created in Onshape.
 
 #### Instructions
 1. Export full assembly from onshape as STL file
